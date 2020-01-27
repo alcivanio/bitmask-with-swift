@@ -1,2 +1,2 @@
-# bitmask-with-swift
-Tests to understand how Bitmask works using Swift language
+# bitmask with swift
+I wrote a simple Swift playground to understand better how bitmasks work using swift.
